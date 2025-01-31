@@ -1,0 +1,7 @@
+.DS_Store
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.playground/xcuserdata/
+*.playground/timeline.xctimeline
+

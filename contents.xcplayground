@@ -8,5 +8,8 @@
         <page name='Properties'/>
         <page name='LocalAndGlobalVariables'/>
         <page name='TypeProperties'/>
+        <page name='Numbers'/>
+        <page name='RandomNumber generation'/>
+        <page name='Strings'/>
     </pages>
 </playground>
